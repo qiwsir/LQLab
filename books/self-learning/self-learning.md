@@ -39,7 +39,7 @@ https://github.com/qiwsir/PythonTutorialForSelf-learners
 1. 本群仅仅是一个松散的学习交流空间，非本书标配。
 1. 群内不得发布任何违背法律、政策、道德以及其他与本群宗旨无关信息。
 
-<img src="./images/groupqq.png" />
+<img src="./_static/./images/groupqq.png" />
 
 -----
 
