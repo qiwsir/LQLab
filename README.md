@@ -1,3 +1,5 @@
 老齐 Lab
 
-lqlab.readthedocs.io
+https://lqlab.readthedocs.io/
+
+欢迎访问

@@ -29,8 +29,10 @@ language = 'zh_CN'
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 html_theme_options = {
-    "repository_url": "https://github.com/lqlab",
-    "use_repository_button": True
+    "repository_url": "https://github.com/qiwsir/",
+    "use_repository_button": True,
+    "show_navbar_depth": 2,
+    "show_toc_level": 2
 }
 html_title = "LaoQiLab"
 html_logo = "./_static/logo.png"

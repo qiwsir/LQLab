@@ -8,6 +8,6 @@ Welcome to 老齐Lab's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
 
    about
