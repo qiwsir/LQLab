@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '老齐 Lab'
-copyright = '2022-今, 老齐'
-author = '老齐'
+project = 'LQLab'
+copyright = '2022-today, LaoQi'
+author = 'LaoQi'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -32,7 +32,7 @@ html_theme_options = {
     "repository_url": "https://github.com/qiwsir/",
     "use_repository_button": True,
     "show_navbar_depth": 2,
-    "show_toc_level": 2
+    "show_toc_level": 1
 }
-html_title = "LaoQiLab"
+html_title = "LQLab"
 html_logo = "./_static/logo.png"
