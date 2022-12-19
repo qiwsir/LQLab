@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '老齐 Lab'
-copyright = '2022, 老齐'
+copyright = '2022-今, 老齐'
 author = '老齐'
 
 # -- General configuration ---------------------------------------------------
@@ -26,5 +26,13 @@ language = 'zh_CN'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+html_theme_options = {
+    ...
+    "repository_url": "https://github.com/lqlab",
+    "use_repository_button": True,
+    ...
+}
+html_title = "LaoQiLab"
+html_logo = "./_static/logo.png"
