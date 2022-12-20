@@ -4,5 +4,5 @@
 
 [https://github.com/qiwsir/Math4ML_book](https://github.com/qiwsir/Math4ML_book)
 
-![](./images/math4ML.png)
+![](/_static/images/math4ML.png)
 
