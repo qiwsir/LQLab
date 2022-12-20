@@ -22,6 +22,7 @@ LQLab
 
    books/index
    lessons
+   article/index
    their-learning
    netlib
    about
