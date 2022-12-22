@@ -89,4 +89,3 @@
 26. [杨氏双缝干涉](http://mp.weixin.qq.com/s?__biz=MzA3ODE4NzExOA==&mid=2657728902&idx=2&sn=dd4d89f1a2ed221413b2eb53addc40fc&chksm=84db8687b3ac0f911f35565f993ffaf6baa22cd6c5327bb88ee9c6994422e40bfe4fa1e8ca43&scene=21#wechat_redirect)
 
 27. [33个魔幻式科学实验](http://mp.weixin.qq.com/s?__biz=MzA3ODE4NzExOA==&mid=2657729059&idx=2&sn=9de23c869a376e9cf53a73ec7b3e7591&chksm=84db8522b3ac0c34cdb8f7a7de9435a8cea991ed5a8ea4661a7e81b88e7c243fefa5c95b5691&scene=21#wechat_redirect)
-

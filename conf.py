@@ -14,9 +14,17 @@ author = 'LaoQi'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'recommonmark',
-    'sphinx_markdown_tables'
+    #'recommonmark',
+    #'sphinx_markdown_tables',
+    'myst_parser'
 ]
+
+myst_enable_extensions = [
+    "amsmath",
+    "dollarmath"
+]
+
+source_suffix = ['.rst', '.md']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -32,7 +40,10 @@ html_theme_options = {
     "repository_url": "https://github.com/qiwsir/",
     "use_repository_button": True,
     "show_navbar_depth": 2,
-    "show_toc_level": 1
+    "show_toc_level": 1,
+    "logo_only": True,
+    "home_page_in_toc": True
 }
 html_title = "LQLab"
 html_logo = "./_static/logo.png"
+html_favicon = "./_static/icon.ico"

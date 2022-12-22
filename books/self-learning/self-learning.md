@@ -10,7 +10,7 @@ https://github.com/qiwsir/PythonTutorialForSelf-learners
 
 [《Python 完全自学教程》视频课程](https://bfw.xet.tech/s/3cMBcz)
 
-<img src="./_static/images/selflearning.jpg" style="zoom:50%;" />
+<img src="/_static/images/selflearning.jpg" style="zoom:50%;" />
 
 ## 在线资料
 
@@ -39,7 +39,7 @@ https://github.com/qiwsir/PythonTutorialForSelf-learners
 1. 本群仅仅是一个松散的学习交流空间，非本书标配。
 1. 群内不得发布任何违背法律、政策、道德以及其他与本群宗旨无关信息。
 
-<img src="./_static/images/groupqq.png" />
+<img src="/_static/images/groupqq.png" />
 
 -----
 
