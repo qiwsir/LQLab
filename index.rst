@@ -20,6 +20,7 @@ LQLab: Coding Learnging Writing
    :maxdepth: 2
    :caption: Contents
 
+   math4ML/index
    books/index
    lessons
    article/index
