@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-LQLab: Coding Learnging Writing
+LQLab: Coding Learning Writing
 ===================================
 
 一蓑烟雨任平生
