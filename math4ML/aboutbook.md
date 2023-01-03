@@ -1,8 +1,8 @@
-# 本书在线资料
+# 关于本书
 
 ![](/_static/images/math4ML.png)
 
-## 本书介绍
+## 图书介绍
 
 点击右边链接阅读：[电子工业出版社博文视点发布的本书介绍](https://mp.weixin.qq.com/s/GVcXTGXKKKitNqUnZEtUMg)
 
