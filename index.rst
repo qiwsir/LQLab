@@ -16,9 +16,10 @@ LQLab: Coding Learning Writing
 
 - `图书：《机器学习数学基础》 <https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22119638442.38.64a81b8bVxnThT&id=669416694891&rn=722f8f9ca01c921371f38750d02e188b&abbucket=17>`_
 
+网站目录
+--------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
 
    math4ML/index
    books/index

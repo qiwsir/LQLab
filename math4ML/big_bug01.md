@@ -30,7 +30,11 @@ $$
 以矩阵（这里提前使用了矩阵的概念，是因为本书已经在前言中声明，不假定读者完全没有学过高等数学。关于矩阵的更详细内容，请参阅第2章）的方式，可以表示为：
 
 $$
-\begin{bmatrix}\pmb{\beta}_1&\cdots&\pmb{\beta}_n\end{bmatrix} = \begin{bmatrix}\pmb{\alpha}_1&\cdots&\pmb{\alpha}_n\end{bmatrix}\begin{bmatrix}b_{11} & \cdots & b_{1n}\\\vdots\\b_{n1} & \cdots &b_{nn}\end{bmatrix}\tag{1.3.6}
+\begin{equation}
+\begin{split}
+\begin{bmatrix}\pmb{\beta}_1&\cdots&\pmb{\beta}_n\end{bmatrix} = \begin{bmatrix}\pmb{\alpha}_1&\cdots&\pmb{\alpha}_n\end{bmatrix}\begin{bmatrix}b_{11} & \cdots & b_{1n}\\\vdots\\b_{n1} & \cdots &b_{nn}\end{bmatrix}
+\end{split}
+\end{equation}\quad\text{(1.3.6)}
 $$
 其中：
 
@@ -57,14 +61,14 @@ $$
 如果写成矩阵形式，即：
 
 $$
-\begin{bmatrix}x_1\\\vdots\\x_n\end{bmatrix} = \begin{bmatrix}b_{11} & \cdots & b_{1n}\\\vdots\\b_{n1} & \cdots &b_{nn}\end{bmatrix}\begin{bmatrix}x_1'\\\vdots\\x_n'\end{bmatrix}\tag{1.3.7}
+\begin{bmatrix}x_1\\\vdots\\x_n\end{bmatrix} = \begin{bmatrix}b_{11} & \cdots & b_{1n}\\\vdots\\b_{n1} & \cdots &b_{nn}\end{bmatrix}\begin{bmatrix}x_1'\\\vdots\\x_n'\end{bmatrix}\quad\text{(1.3.7)}
 $$
 表示了在同一个向量空间中，向量在不同基下的坐标之间的变换关系，我们称为**坐标变换公式**。
 
 > **定义** 在某个向量空间中，由基 $\{\pmb{\alpha}_1\quad\cdots\quad\pmb{\alpha}_n\}$ 向基 $\{\pmb{\beta}_1\quad\cdots\quad\pmb{\beta}_n\}$ 的过渡矩阵是 $\pmb{P}$ 。某向量在基 $\{\pmb{\alpha}_1\quad\cdots\quad\pmb{\alpha}_n\}$ 的坐标是 $\pmb{x}=\begin{bmatrix}x_1\\\vdots\\x_n\end{bmatrix} $，在基 $\{\pmb{\beta}_1\quad\cdots\quad\pmb{\beta}_n\}$ 的坐标是 $\pmb x'=\begin{bmatrix}x_1'\\\vdots \\x_n'\end{bmatrix}$，这两组坐标之间的关系是：
-> $$
+> $
 > \pmb x = \pmb P \pmb x'
-> $$
+> $
 
 ----
 

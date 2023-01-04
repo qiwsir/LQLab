@@ -130,3 +130,4 @@
 - [EVA 视频分析系统](https://github.com/georgia-tech-db/eva)：像使用 MySQL 一样查询视频
 - [Code App](https://github.com/thebaselab/codeapp)：用于 iPAD 的代码编辑器
 - [NeuHub 京东人工智能开放平台](https://aidoc.jd.com/)
+- [LaTeX公式编辑器](https://www.latexlive.com/home)
