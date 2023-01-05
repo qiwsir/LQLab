@@ -4,9 +4,9 @@
 
 与此相关的书籍和课程，请参阅：
 
-- [《机器学习数学基础》](https://github.com/qiwsir/Math4ML_book)
-- [《数据准备和特征工程》](./feature.md)
-- [《跟老齐学Python：数据分析》](./data.md)
+- [《机器学习数学基础》](/math4ML/)
+- [《数据准备和特征工程》](/books/feature/feautre.md)
+- [《跟老齐学Python：数据分析》](/books/data/data.md)
 - 在线课程
   - [《机器学习数学基础》视频课程](https://ke.qq.com/course/5556479?quicklink=1#term_id=105748678)
   - [百度AI Studio：数据准备和特征工程](https://aistudio.baidu.com/aistudio/education/teacher/management/1337)  与《数据准备和特征工程》配套的源码，并有少量视频内容。（*免费*）
@@ -18,7 +18,7 @@
 
 ## 数学基础
 
-请访问【机器学习数学基础】专题网站：https://github.com/qiwsir/Math4ML_book
+请访问[【机器学习数学基础】专题](/math4ML/)
 
 - [想从事人工智能领域的工作，需要学习很复杂的数学吗？](https://mp.weixin.qq.com/s/mlHm4zIKeHeN60itSD9qWQ)
 

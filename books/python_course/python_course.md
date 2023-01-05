@@ -1,6 +1,6 @@
 # Python大学实用教程
 
-<img src="./images/python_course.png" width=400 />
+![](/_static/images/python_course.png)
 
 ## 简介
 
@@ -27,7 +27,7 @@
 
 ### 辅助文章
 
-在我的微信公众号【老齐教室】和[博客](https://qiwsir.github.io)上发布了很多关于Python编程语言的文章，供参考。
+在我的微信公众号【老齐教室】上发布了很多关于Python编程语言的文章，供参考。
 
 请阅读：[Python编程文章汇总](https://mp.weixin.qq.com/s/zkfCSuyMndWXkUashl3peg)
 

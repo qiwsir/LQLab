@@ -4,23 +4,24 @@
 
 ## 开源仓库地址
 
-https://github.com/qiwsir/PythonTutorialForSelf-learners
+[https://github.com/qiwsir/PythonTutorialForSelf-learners](https://github.com/qiwsir/PythonTutorialForSelf-learners)
 
 ## 本书配套视频课程
 
 [《Python 完全自学教程》视频课程](https://bfw.xet.tech/s/3cMBcz)
 
-[](/_static/images/selflearning.jpg)
+![](/_static/images/selflearning.jpg)
 
 ## 在线资料
 
-- 与本书配套的《自学管理表》下载地址：百度网盘：链接: https://pan.baidu.com/s/1yrRG4axCZZ5dEwl9TWP9Gw 提取码: jqjj 
-- 推荐使用的练习题（含答案）：https://aistudio.baidu.com/aistudio/projectdetail/249125
+- 与本书配套的《自学管理表》下载地址：百度网盘：链接: [https://pan.baidu.com/s/1yrRG4axCZZ5dEwl9TWP9Gw](https://pan.baidu.com/s/1yrRG4axCZZ5dEwl9TWP9Gw) 提取码: jqjj 
+- 推荐使用的练习题（含答案）：[https://aistudio.baidu.com/aistudio/projectdetail/249125](https://aistudio.baidu.com/aistudio/projectdetail/249125)
 
 ## 本书说明
 
 1. 本书以开源的形式发布，但版权归作者所有。如果有出版社愿意出版本书，请联系本作者。
 2. 读者在阅读本书过程中，如果发现错误，请通过 github 提交，或者进入本书读者交流群告知作者，不胜感激。
+3. 在 github 上提供了针对本书的讨论区：[https://github.com/qiwsir/PythonTutorialForSelf-learners/discussions](https://github.com/qiwsir/PythonTutorialForSelf-learners/discussions)
 
 ## 本书 PDF 文件下载地址
 
@@ -39,7 +40,7 @@ https://github.com/qiwsir/PythonTutorialForSelf-learners
 1. 本群仅仅是一个松散的学习交流空间，非本书标配。
 1. 群内不得发布任何违背法律、政策、道德以及其他与本群宗旨无关信息。
 
-[](/_static/images/groupqq.png)
+![](/_static/images/groupqq.png)
 
 -----
 

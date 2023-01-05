@@ -21,7 +21,7 @@ Python是一种被广泛用于网站开发、数据处理和机器学习等领�
 
 ### 辅助文章
 
-在我的微信公众号【老齐教室】和[博客](https://qiwsir.github.io)上发布了很多关于Python编程语言的文章，供参考。
+在我的微信公众号【老齐教室】上发布了很多关于Python编程语言的文章，供参考。
 
 请阅读：[Python编程文章汇总](https://mp.weixin.qq.com/s/zkfCSuyMndWXkUashl3peg)
 
