@@ -5,6 +5,7 @@
 ## 算法
 
 - [通俗易懂讲算法：快速排序](https://qiwsir.github.io/2020/02/04/quicksort/)
+- [解2022年408考研真题第1题：时间复杂度](https://mp.weixin.qq.com/s/D4PvjTfFr-N6tnm9FIUTcQ)
 
 
 
