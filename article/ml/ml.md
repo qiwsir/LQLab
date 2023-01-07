@@ -4,8 +4,8 @@
 
 与此相关的书籍和课程，请参阅：
 
-- [《机器学习数学基础》](/math4ML/)
-- [《数据准备和特征工程》](/books/feature/feautre.md)
+- [《机器学习数学基础》](https://lqlab.readthedocs.io/en/latest/math4ML/index.html)
+- [《数据准备和特征工程》](/books/feature/feature.md)
 - [《跟老齐学Python：数据分析》](/books/data/data.md)
 - 在线课程
   - [《机器学习数学基础》视频课程](https://ke.qq.com/course/5556479?quicklink=1#term_id=105748678)

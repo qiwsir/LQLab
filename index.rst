@@ -22,6 +22,7 @@ LQLab: Coding Learning Writing
    :maxdepth: 2
 
    math4ML/index
+   python/index
    books/index
    lessons
    article/index
