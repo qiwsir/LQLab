@@ -16,4 +16,5 @@
 
    vectorspace/index
    matrix/index
+   statistics/index
    math/index

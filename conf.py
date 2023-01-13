@@ -39,7 +39,7 @@ html_static_path = ['_static']
 html_theme_options = {
     "repository_url": "https://github.com/qiwsir/",
     "use_repository_button": True,
-    "show_navbar_depth": 2,
+    "show_navbar_depth": 1,
     "show_toc_level": 1,
     "logo_only": True,
     "home_page_in_toc": True
