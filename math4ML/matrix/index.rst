@@ -6,3 +6,4 @@
 
    
    affine
+   positive_definite
