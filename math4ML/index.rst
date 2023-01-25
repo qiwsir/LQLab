@@ -8,7 +8,7 @@
    aboutbook
    corrigendum
 
-更多资料
+数学
 ----------
 
 .. toctree::
@@ -18,3 +18,9 @@
    matrix/index
    statistics/index
    math/index
+
+机器学习
+-------------
+
+.. toctree::
+   :maxdepth: 2

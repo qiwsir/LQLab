@@ -2,6 +2,10 @@
 
 为了帮助更多人学习 Python 编程语言，我编写了本册图书，并开源，免费发布。
 
+## 专题网站
+
+[https://lqpybook.readthedocs.io](https://lqpybook.readthedocs.io)
+
 ## 开源仓库地址
 
 [https://github.com/qiwsir/PythonTutorialForSelf-learners](https://github.com/qiwsir/PythonTutorialForSelf-learners)
@@ -25,7 +29,6 @@
 
 ## 本书 PDF 文件下载地址
 
-- github.com 下载：[《Python 完全自学教程》PDF ](https://github.com/qiwsir/PythonTutorialForSelf-learners/blob/main/Python%E5%AE%8C%E5%85%A8%E8%87%AA%E5%AD%A6%E6%95%99%E7%A8%8B.pdf)
 - 百度网盘下载：链接: https://pan.baidu.com/s/1Jy8vWh2C8UJOURoCxVzCHA 提取码: pw23
 
 ## 本书源码地址

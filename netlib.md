@@ -99,6 +99,7 @@
 
 - [本科与研究生物理](https://zhuanlan.zhihu.com/p/21814233)
 - [几何光学模拟器](https://ricktu288.github.io/ray-optics/)
+- [Feynman 物理学讲义](https://www.feynmanlectures.caltech.edu/?continueFlag=a4d1792eaad17f7d405bed4cca42c743)
 
 ## 数学
 
@@ -117,6 +118,8 @@
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [统计之都](https://cosx.org/)
 - [线性代数的艺术](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN)
+- [Digital textbook on probability and statistics](https://statlect.com/?continueFlag=b08a92ad41c0e72cf7a8c0972dc4bba2)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index2.html)
 
 ## 其他
 
