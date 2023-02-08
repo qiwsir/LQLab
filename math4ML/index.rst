@@ -14,8 +14,7 @@
 .. toctree::
    :maxdepth: 2
 
-   vectorspace/index
-   matrix/index
+   linearalgebra/index
    statistics/index
    math/index
 

@@ -1,4 +1,4 @@
-统计
+概率和统计
 ===========
 
 .. toctree::
@@ -6,3 +6,4 @@
 
    
    basic
+   bayes-classifier
