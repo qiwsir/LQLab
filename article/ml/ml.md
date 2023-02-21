@@ -65,7 +65,11 @@
 - [深度学习简史（一）](https://mp.weixin.qq.com/s?__biz=MzA3ODE4NzExOA==&mid=2657734220&idx=1&sn=c772f793b70cc37dde0dc65369f50a51&chksm=84dbf14db3ac785b4cd3b767207a2a4ee36b22cc8d2b8d5b4bcfa412ba912e15ccdbdd33be5e&token=80669193&lang=zh_CN#rd)
 - [深度学习简史（二）](https://mp.weixin.qq.com/s?__biz=MzA3ODE4NzExOA==&mid=2657734229&idx=1&sn=27957509cd08990b92d8330b169ff21f&chksm=84dbf154b3ac78421311ee9294ce071fb9f1a87f950fe207a678d954eff1f8b22e4ae3255ffe&token=80669193&lang=zh_CN#rd)
 
+
 ## 自然语言处理
+
+- [用 Python 调用 GPT-3 API](https://mp.weixin.qq.com/s/scunfoSwpdMTeGe5pPUh2Q)
+- [ChatGPT 的原理：机器人背后的模型](https://mp.weixin.qq.com/s/n8pROl5Bht0F0IZaK-qfdA)
 
 ## 计算机视觉和图像
 
