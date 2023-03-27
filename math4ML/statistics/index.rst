@@ -7,3 +7,4 @@
    
    basic
    bayes-classifier
+   fisher-lda

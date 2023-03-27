@@ -90,6 +90,11 @@
 - [专业词汇库](https://github.com/liuhuanyong/DomainWordsDict)
 - [自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)
 
+### ChatGPT 的衍生工具
+
+- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/?continueFlag=38f68936dd4cba7a1ef4d986548d20e8)
+- [ChatPaper,总结 arxiv 论文的工具](https://github.com/kaixindelele/ChatPaper)
+
 ### 计算
 
 - [高性能计算库：TaiChi](https://docs.taichi.graphics/)
@@ -127,6 +132,7 @@
 - [资源帝](http://shu.ziyuandi.cn/)
 - [全历史](https://www.allhistory.com/)
 - [老画报](http://www.laohuabao.com/index.html)
+- [AI STUDIO 人工智能视频编辑](https://ai.capsule.video/)
 
 ## 开源精选
 
