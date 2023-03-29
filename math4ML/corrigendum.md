@@ -705,7 +705,7 @@
      $$
      
    - 修改说明：第一个等号之后的矩阵中第三列的分子，分别由原来的 $\partial h1_{in1},\partial h1_{in2},\partial h1_{in3}$ ，改为 $\partial h2_{in1},\partial h2_{in2},\partial h2_{in3}$ 
-   
+
 11. 位置：201页，第 4 行
 
    - 原文：$\left(\frac{f}{g}\right)=\frac{f^\prime g-fg^\prime}{g^2}$
@@ -725,7 +725,7 @@
     - 修改说明：将 $\pmb{Ax}-\pmb{b}^2$ 改为 $(\pmb{Ax}-\pmb{b})^2$
     - 致谢：感谢读者孔祥松指出此错误。
 
-### 2022年9月第2次印刷
+### 2023年1月第3次印刷
 
 1. 位置：101页，第二段代码
 
@@ -769,6 +769,13 @@
    - 原文：其中 $\nabla^2f(\hat{\pmb{x}}_k)$ 是黑塞矩阵（Hessianmatrix，参阅 4.2.3 节）。
    - 修改为：其中 $\nabla^2f(\hat{\pmb{x}}_k)$ 是黑塞矩阵（Hessian Matrix，参阅 4.2.3 节）。
    - 修改说明：英文 “Hessianmatrix” 修改为 “Hessian Matrix”。
+
+4. 位置：309页，正文，第 10 行，即“定义”的第 2 行
+
+   - 原文：$\{X_1=a_{1j_1},\cdots,X_n=a_{1j_n}\}$ 
+   - 修改为：$\{X_1=a_{1j_1},\cdots,X_n=a_{nj_n}\}$
+   - 修改说明：将原文中的 $X_n=a_{1j_n}$ 修改为 $X_n=a_{nj_n}$ 
+   - 致谢：感谢名为大越的读者指出。
 
 -----
 
