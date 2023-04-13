@@ -5,6 +5,7 @@
    :maxdepth: 1
 
    
+   proveext
    basic
    bayes-classifier
    fisher-lda
