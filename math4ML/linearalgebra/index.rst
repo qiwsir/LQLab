@@ -6,5 +6,6 @@
 
    basetheory
    matrixoperation
+   linearmap
    affine
    positive_definite

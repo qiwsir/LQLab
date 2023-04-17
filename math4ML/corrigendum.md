@@ -780,11 +780,13 @@
 5. 位置：343页，正文，倒数第 5 行，即本页最后一个公式
 
    - 原文：
+   - 
      $$
      \begin{split}Cov(\pmb{X}) &= E\left((\pmb{X} - E[\pmb{X}])(\pmb{X} - E[\pmb{X}])^\text{T}\right) \\ &= E\left(\pmb{XX}^T-\pmb{X}E[\pmb{X}]^\text{T} - E[\pmb{X}\pmb{X}]^\text{T} + E[\pmb{X}]E[\pmb{X}]^\text{T}\right)  \\ &= E[\pmb{XX}^\text{T}] - E[\pmb{X}]E[\pmb{X}]^\text{T} - E[\pmb{X}]E[\pmb{X}^\text{T}] + E[\pmb{X}]E[\pmb{X}^\text{T}] \\ &= E[\pmb{XX}^\text{T}]-E[\pmb{X}]E[\pmb{X}]^\text{T}\end{split}
      $$
 
    - 修改为：
+   - 
      $$
      \begin{split}Cov(\pmb{X}) &= E\left((\pmb{X} - E[\pmb{X}])(\pmb{X} - E[\pmb{X}])^\text{T}\right) 
      \\&=E\left((\pmb{X}-E[\pmb{X}])(\pmb{X}^\text{T}-E[\pmb{X}]^\text{T})\right)
