@@ -43,14 +43,14 @@ $$
 上式可以理解为：向量 $\pmb{v}_j$ 经 $\pmb{T}$ 的映射后结果为 $\pmb{T}(\pmb{v}_j)$ （此结果称为像），即：
 
 $$
-\begin{split}&\pmb{T}(\pmb{v}_1)=\pmb{T}(t^0)=(1+t)^0=1=\pmb{v}_1\\&\pmb{T}(\pmb{v}_2)=\pmb{T}(t^1)=(1+t)^1=\pmb{v}_1+\pmb{v}_2\\&\pmb{T}(\pmb{v}_3)=\pmb{T}(t^2)=(1+t)^2=1+2t+t^2=\pmb{v}_1+2\pmb{v}_2+\pmb{v}_3\end{split} \tag{1.4}
+\begin{split}&\pmb{T}(\pmb{v}_1)=\pmb{T}(t^0)=(1+t)^0=1=\pmb{v}_1\\&\pmb{T}(\pmb{v}_2)=\pmb{T}(t^1)=(1+t)^1=\pmb{v}_1+\pmb{v}_2\\&\pmb{T}(\pmb{v}_3)=\pmb{T}(t^2)=(1+t)^2=1+2t+t^2=\pmb{v}_1+2\pmb{v}_2+\pmb{v}_3\end{split} \qquad(1.4)
 $$
  
 
 上述系数可以写成：
 
 $$
-[\pmb{T}(\pmb{\beta})]=\begin{bmatrix}1&0&0\\1&1&0\\1&2&1\end{bmatrix}\tag{1.5}
+[\pmb{T}(\pmb{\beta})]=\begin{bmatrix}1&0&0\\1&1&0\\1&2&1\end{bmatrix}\qquad(1.5)
 $$
 
 
@@ -71,7 +71,7 @@ $$
 可以通过“矩阵乘法”将 $[q]_{\pmb{\beta}}$ 和 $[p]_{\pmb{\beta}}$ 联系起来：
 
 $$
-[q]_{\pmb{\beta}}=\begin{bmatrix}1&1&1\\0&1&2\\0&0&1\end{bmatrix}\begin{bmatrix}a_0\\a_1\\a_2\end{bmatrix}=[\pmb{T}]_{\pmb{\beta}}[p]_{\pmb{\beta}}\tag{1.6}
+[q]_{\pmb{\beta}}=\begin{bmatrix}1&1&1\\0&1&2\\0&0&1\end{bmatrix}\begin{bmatrix}a_0\\a_1\\a_2\end{bmatrix}=[\pmb{T}]_{\pmb{\beta}}[p]_{\pmb{\beta}}\qquad(1.6)
 $$
 
 
@@ -138,7 +138,7 @@ $$
 
 $\pmb{I}-\pmb{P}$ 也是一个投影矩阵，且：$(\pmb{I}-\pmb{P})\pmb{b}=\pmb{b}-\pmb{Pb}=\pmb{b}-\pmb{p}=\pmb{e}$
 
-因此，向量 $\pmb{b}$ 经 $\pmb{I}-\pmb{P}$ 正交投影至 $\pmb{e}\in\N(\pmb{A}^T)$ 。
+因此，向量 $\pmb{b}$ 经 $\pmb{I}-\pmb{P}$ 正交投影至 $\pmb{e}\in N(\pmb{A}^T)$ 。
 
 **总结：**
 

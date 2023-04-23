@@ -90,10 +90,11 @@
 - [专业词汇库](https://github.com/liuhuanyong/DomainWordsDict)
 - [自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)
 
-### ChatGPT 的衍生工具
+### ChatGPT
 
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/?continueFlag=38f68936dd4cba7a1ef4d986548d20e8)
 - [ChatPaper,总结 arxiv 论文的工具](https://github.com/kaixindelele/ChatPaper)
+- [ChatGPT 原理和应用](https://github.com/datawhalechina/hugging-llm)
 
 ### 计算
 
@@ -125,6 +126,7 @@
 - [线性代数的艺术](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN)
 - [Digital textbook on probability and statistics](https://statlect.com/?continueFlag=b08a92ad41c0e72cf7a8c0972dc4bba2)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index2.html)
+- [DarkoXie的高等数学讲义](https://darkoxie.github.io/)
 
 ## 其他
 
