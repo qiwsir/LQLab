@@ -142,3 +142,11 @@
 - [Code App](https://github.com/thebaselab/codeapp)：用于 iPAD 的代码编辑器
 - [NeuHub 京东人工智能开放平台](https://aidoc.jd.com/)
 - [LaTeX公式编辑器](https://www.latexlive.com/home)
+
+## 408
+
+### 数据结构和算法
+
+- [二分查找模板全解](https://leetcode.cn/circle/article/xYBtLt/)
+- [二分查找总结](https://www.jianshu.com/p/2de59da651f4)
+- [堆专题](https://leetcode.cn/leetbook/detail/heap/)

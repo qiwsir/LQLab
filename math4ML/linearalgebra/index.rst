@@ -5,6 +5,7 @@
    :maxdepth: 1
 
    basetheory
+   norm
    matrixoperation
    linearmap
    cauchy-schwarz
