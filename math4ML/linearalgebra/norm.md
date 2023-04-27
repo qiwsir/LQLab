@@ -101,7 +101,7 @@ $$
 
 ### 2.3 定理三
 
-若 $\rank \pmb{A}=m$ ，即 $\pmb{A}$ 的列向量线性无关，则 $\pmb{Ax}=\pmb{b}$ 必有解，且极小范数解为：
+若 $\text{rank} \pmb{A}=m$ ，即 $\pmb{A}$ 的列向量线性无关，则 $\pmb{Ax}=\pmb{b}$ 必有解，且极小范数解为：
 
 $$
 \pmb{x}^+=\pmb{A}^T(\pmb{AA}^T)^{-1}\pmb{b}
@@ -110,7 +110,7 @@ $$
 
 **证明**
 
-因为 $\rank \pmb{A}=m$ ，则 $\dim C(\pmb{A})=m$ ，列空间 $C(\pmb{A})$ 充满 $\mathbb{R}^m$ ，所以任一 $\pmb{b}\in\mathbb{R}^m$ 使 $\pmb{Ax}=\pmb{b}$ 有解。
+因为 $\text{rank} \pmb{A}=m$ ，则 $\dim C(\pmb{A})=m$ ，列空间 $C(\pmb{A})$ 充满 $\mathbb{R}^m$ ，所以任一 $\pmb{b}\in\mathbb{R}^m$ 使 $\pmb{Ax}=\pmb{b}$ 有解。
 
 *推导方法1*
 
@@ -121,13 +121,14 @@ $$
 $$
 
 
-因为 $\rank(\pmb{AA}^T)=\rank(\pmb{A})=m$ ，所以 $\pmb{AA}^T$ 可逆$^{[5]}$。
+因为 $\text{rank}(\pmb{AA}^T)=\text{rank}(\pmb{A})=m$ ，所以 $\pmb{AA}^T$ 可逆$^{[5]}$。
 
 故：$\pmb{c}=(\pmb{AA}^T)^{-1}\pmb{b}$
 
 解得：$\pmb{x}^+=\pmb{A}^T(\pmb{AA}^T)^{-1}\pmb{b}$
 
 *推导方法2*，使用拉格朗日乘数法$^{[4]}$
+
 $$
 \begin{split}minimize \quad &\begin{Vmatrix}\pmb{x}\end{Vmatrix}\\subject\quad to \quad& \pmb{Ax}=\pmb{b}\end{split}
 $$

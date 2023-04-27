@@ -6,6 +6,7 @@
 
    basetheory
    norm
+   dotcrossproduct
    matrixoperation
    linearmap
    cauchy-schwarz
