@@ -12,3 +12,4 @@
    cauchy-schwarz
    affine
    positive_definite
+   functionvector
