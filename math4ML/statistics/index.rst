@@ -4,7 +4,7 @@
 .. toctree::
    :maxdepth: 1
 
-   
+   hyperplane
    proveext
    basic
    bayes-classifier
