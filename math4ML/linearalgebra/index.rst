@@ -10,6 +10,7 @@
    matrixoperation
    linearmap
    cauchy-schwarz
+   geometrical_matrix
    affine
    positive_definite
    functionvector
