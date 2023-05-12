@@ -7,10 +7,11 @@
    basetheory
    norm
    dotcrossproduct
+   geometrical_matrix
    matrixoperation
+   multiplication
    linearmap
    cauchy-schwarz
-   geometrical_matrix
    affine
    positive_definite
    functionvector
