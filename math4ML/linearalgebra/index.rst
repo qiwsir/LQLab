@@ -10,8 +10,10 @@
    geometrical_matrix
    matrixoperation
    multiplication
+   equation
    linearmap
    cauchy-schwarz
    affine
+   invertiblematrix
    positive_definite
    functionvector

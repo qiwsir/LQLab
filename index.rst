@@ -28,4 +28,5 @@ LQLab: Coding Learning Writing
    article/index
    their-learning
    netlib
+   html/index
    about

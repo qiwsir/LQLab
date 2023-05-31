@@ -150,3 +150,4 @@
 - [二分查找模板全解](https://leetcode.cn/circle/article/xYBtLt/)
 - [二分查找总结](https://www.jianshu.com/p/2de59da651f4)
 - [堆专题](https://leetcode.cn/leetbook/detail/heap/)
+- [Algorithmica](https://en.algorithmica.org/)
