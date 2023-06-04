@@ -17,6 +17,7 @@
    linearalgebra/index
    statistics/index
    math/index
+   information/index
 
 机器学习
 -------------
