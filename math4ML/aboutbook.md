@@ -47,11 +47,6 @@
 
 - [前言](https://mp.weixin.qq.com/s?__biz=MzA3ODE4NzExOA==&mid=2657733175&idx=1&sn=0d3085bed31b70193b196ae26b5e32f4&chksm=84dbf536b3ac7c208392b00bc5276533433f13c92dfb8cd5996bd20aaeefdf7ce48f98d67505&token=1200228264&lang=zh_CN#rd)
 
-- 视频节选
-
-  - [001数学让开发者突破职业发展天花板](https://www.bilibili.com/video/BV1KS4y1p7YS/?vd_source=00942203186830e232d6234599088b87)
-  - [002激活潜藏于大脑中的数学知识](https://www.bilibili.com/video/BV1QU4y1Q7GJ/?vd_source=00942203186830e232d6234599088b87)
-
 - 第1 章向量和向量空间
 
   - 1.1 向量
