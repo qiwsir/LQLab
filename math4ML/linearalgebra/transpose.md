@@ -4,7 +4,9 @@
 
 矩阵 $\pmb{A}$ 为 $m\times n$ ，从线性变换的角度来看：
 
-$$\begin{split}\pmb{A}&:\mathbb{R}^n\to\mathbb{R}^m\\\pmb{A}^{\rm{T}}&:\mathbb{R}^m\to\mathbb{R}^n\end{split}$$​
+$$
+\begin{split}\pmb{A}&:\mathbb{R}^n\to\mathbb{R}^m\\\pmb{A}^{\rm{T}}&:\mathbb{R}^m\to\mathbb{R}^n\end{split}
+$$​
 
 如下图所示：
 
@@ -16,9 +18,11 @@ $$\begin{split}\pmb{A}&:\mathbb{R}^n\to\mathbb{R}^m\\\pmb{A}^{\rm{T}}&:\mathbb{R
 
 结合上图，设 $\pmb{x},\pmb{A}^{\rm{T}}\pmb{y}\in\mathbb{R}^n；\pmb{y},\pmb{Ax}\in\mathbb{R}^m$​ 。因为：
 
-$$(\pmb{Ax})^{\rm{T}}\pmb{y}=\pmb{x}^{\rm{T}}\pmb{A}^{\rm{T}}\pmb{y}=\pmb{x}^{\rm{T}}(\pmb{A}^{\rm{T}}\pmb{y})$$
+$$
+(\pmb{Ax})^{\rm{T}}\pmb{y}=\pmb{x}^{\rm{T}}\pmb{A}^{\rm{T}}\pmb{y}=\pmb{x}^{\rm{T}}(\pmb{A}^{\rm{T}}\pmb{y})
+$$
 
-可得：$\mathbb{R}^m$ 中的向量 $\pmb{Ax}$ 与 $\pmb{y}$ 的点积等于 $$\mathbb{R}^n$$ 中的向量 $\pmb{x}$ 与 $\pmb{A}^{\rm{T}}\pmb{y}$ 的点积$$^{[2]}$$ 。
+可得：$\mathbb{R}^m$ 中的向量 $\pmb{Ax}$ 与 $\pmb{y}$ 的点积等于 $\mathbb{R}^n$ 中的向量 $\pmb{x}$ 与 $\pmb{A}^{\rm{T}}\pmb{y}$ 的点积 $^{[2]}$ 。
 
 以上的性质，称为**伴随**（adjoint），利用这个性质定义转置矩阵：
 
