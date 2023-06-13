@@ -15,5 +15,6 @@
    cauchy-schwarz
    affine
    invertiblematrix
+   transpose
    positive_definite
    functionvector
