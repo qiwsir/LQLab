@@ -17,4 +17,5 @@
    invertiblematrix
    transpose
    positive_definite
+   lu-decomposition
    functionvector
