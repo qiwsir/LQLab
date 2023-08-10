@@ -127,6 +127,7 @@
 - [Digital textbook on probability and statistics](https://statlect.com/?continueFlag=b08a92ad41c0e72cf7a8c0972dc4bba2)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index2.html)
 - [DarkoXie的高等数学讲义](https://darkoxie.github.io/)
+- [矩阵力量](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
 
 ## 其他
 
@@ -143,7 +144,7 @@
 - [NeuHub 京东人工智能开放平台](https://aidoc.jd.com/)
 - [LaTeX公式编辑器](https://www.latexlive.com/home)
 
-## 408
+## 计算机考研
 
 ### 数据结构和算法
 
@@ -151,6 +152,10 @@
 - [二分查找总结](https://www.jianshu.com/p/2de59da651f4)
 - [堆专题](https://leetcode.cn/leetbook/detail/heap/)
 - [Algorithmica](https://en.algorithmica.org/)
+
+### 计算机组成原理
+
+- [计算机体系结构基础](https://foxsen.github.io/archbase/)
 
 ### 计算机网络
 

@@ -70,6 +70,7 @@
 
 - [用 Python 调用 GPT-3 API](https://mp.weixin.qq.com/s/scunfoSwpdMTeGe5pPUh2Q)
 - [ChatGPT 的原理：机器人背后的模型](https://mp.weixin.qq.com/s/n8pROl5Bht0F0IZaK-qfdA)
+- [利用 LDA 创建主题模型](https://mp.weixin.qq.com/s/wA3NgFmGvtd0MX5kUM1L0A)
 
 ## 计算机视觉和图像
 
