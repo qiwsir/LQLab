@@ -152,6 +152,7 @@
 - [二分查找总结](https://www.jianshu.com/p/2de59da651f4)
 - [堆专题](https://leetcode.cn/leetbook/detail/heap/)
 - [Algorithmica](https://en.algorithmica.org/)
+- [Hello 算法](https://www.hello-algo.com/)
 
 ### 计算机组成原理
 
@@ -160,3 +161,9 @@
 ### 计算机网络
 
 - [Computer Networking:Principles Protocols and Practice](https://www.computer-networking.info/2nd/html/)
+- [图解计算机基础](https://xiaolincoding.com/)
+
+## 资源集散
+
+- [安娜的档案](https://zh.annas-archive.gs/)：电子书、论文等下载
+- [Library Genesis](https://libgen.is/)
