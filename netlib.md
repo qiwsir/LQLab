@@ -168,3 +168,4 @@
 - [安娜的档案](https://zh.annas-archive.gs/)：电子书、论文等下载
 - [Library Genesis](https://libgen.is/)
 - [互联网知识地图最全集合](https://yunyinghui.feishu.cn/docx/Q66RdH4lNoLW7nxSjXBcjcOtnod)
+- [Liber3](https://liber3.eth.limo/)
