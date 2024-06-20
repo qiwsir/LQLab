@@ -78,5 +78,18 @@
 - [手把手教你使用图像处理利器 OpenCV](https://qiwsir.github.io/2020/03/22/learn-opencv/)
 - [用 OpenCV 实现自动驾驶中的车道识别](https://mp.weixin.qq.com/s/AXs36AOAkkeC45EL9tfWOA)
 
+## 大语言模型
 
+- [零基础构建基于LangChain的聊天机器人(1)](https://mp.weixin.qq.com/s/JX4sFnNV_P8gqbPSpvd_8g)
+- [零基础构建基于LangChain的聊天机器人(2)](https://mp.weixin.qq.com/s/NJHLni5OUzEBh8CO2fj-dg)
+- [零基础构建基于LangChain的聊天机器人(3)](https://mp.weixin.qq.com/s/mAsVRZ7P4S8jk7ZgE3mKpA)
+- [零基础构建基于LangChain的聊天机器人(4)](https://mp.weixin.qq.com/s/tNa5Ha_5eGf4ZMbeq_SRDQ)
+- [零基础构建基于LangChain的聊天机器人(5)](https://mp.weixin.qq.com/s/0hrvhL-EE9pqdmCvMq1l1Q)
+- [零基础构建基于LangChain的聊天机器人(6)](https://mp.weixin.qq.com/s/nYMI6CicIiiHLw8gAyyDfA)
+- [零基础构建基于LangChain的聊天机器人(7)](https://mp.weixin.qq.com/s/nN22J9OX0khAinmfLOsyYw)
+- [零基础构建基于LangChain的聊天机器人(8)](https://mp.weixin.qq.com/s/qGIppp2ecZNkTrsr1lJEXQ)
+- [零基础构建基于LangChain的聊天机器人(9)](https://mp.weixin.qq.com/s/NLNdMrpl0H88ILLRu-MyCQ)
+- [零基础构建基于LangChain的聊天机器人(10)](https://mp.weixin.qq.com/s/JpACOrn4-pF4h0pspaeyPw)
+- [零基础构建基于LangChain的聊天机器人(11)](https://mp.weixin.qq.com/s/M5czGyjmikM5pgvVt8XrQw)
+- [零基础构建基于LangChain的聊天机器人(12)](https://mp.weixin.qq.com/s/9mM4lG6V44-XJbTbcPgmHg)
 
