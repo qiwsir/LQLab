@@ -11,7 +11,7 @@ LQLab: Coding Learning Writing
 重点推荐
 --------
 
-- `视频课程：Python 完全自学教程（含 AI 智能问答功能） <https://ytky.cn/series/XL100116xxxxxx>`_
+- `视频课程：Python 完全自学教程（含 AI 智能问答功能） <https://yantucs.com/digit/DT100157xxxxxx>`_
 - `视频课程：《机器学习数学基础》 <https://yantucs.com/series/XL100124xxxxxx?uname=ec10ef51f3d07f5bb2efaa1b0f94b83c>`_
 
 - `图书：《机器学习数学基础》 <https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22119638442.38.64a81b8bVxnThT&id=669416694891&rn=722f8f9ca01c921371f38750d02e188b&abbucket=17>`_
