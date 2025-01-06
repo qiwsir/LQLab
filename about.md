@@ -20,4 +20,4 @@
 尝试录制了一些课程：
 
 - [机器学习数学基础](https://appqtulvsie4217.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_6243c2a9e4b01c509a9c1c8e?)
-- [Python完全自学教程](https://appqtulvsie4217.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_63477dcfe4b00a4f374e55ed?)
+- [Python完全自学教程](https://yantucs.com/digit/DT100157xxxxxx)
